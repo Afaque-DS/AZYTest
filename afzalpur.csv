@@ -1,0 +1,697 @@
+gender,treatment plan/advised,area,age_cleaned,complaint,duration,age_group,duration_cleaned,complaint_cleaned,treatment_encoded,gender_encoded
+Female,"REP-FORT, 4MG, 1-0-1, 1 Months, -
+
+OLAN, 10 MG, 1/2-0-1, 1 Months, -",Afzalpur,28,"SADNESS,FEAR/PALPITION, SUSPECIAUSNESS, HEARINING OF VOICES",5 YEARS,21-30,5,"sadness,fear/palpition, suspeciausness, hearining of voices",49,0
+Male,"EPTION, 100MG, 1-1-1, 1 Months, -
+
+T PHENOBARBITONE, 60mg, 1-0-1, 1 Months, -
+
+T PHENOBARBITONE, 30mg, 0-0-1, 1 Months, -",Afzalpur,44,SEIZURE,"MANY YEARS
+
+I",41-50,10,seizure,24,1
+Male,"RSP-FORT, 4MG, 0-0-1, 1 Months, -
+
+CPZ, 100MG, 0-0-1/2, 1 Months, -
+
+YES.",Afzalpur,53,"LACK OF SLEEP, SELF CARE POOR, HALLUCINATION","4YERS.
+
+ical",51-60,4,"lack of sleep, self care poor, hallucination",83,1
+Female,"REP-FORT, 4MG, 1-0-1, 1 Months, -
+
+CLONAZEPAM, 0.5MG, 1-0-1, 1 Months, -",Afzalpur,33,"MUTTERING TO SELF, IRRITABILITY, SUSPICIOUS",MANY YEARS.,31-40,10,"muttering to self, irritability, suspicious",48,0
+Female,"SERTRALINE, 100mg, 1-0-0, 1 Months, -
+
+DIAZEPAM, Smeg, 0-0-1, 1 Months, -
+
+YES.",Afzalpur,34,"HEADACHE, GIDDINESS, FEAR, PALPITION","1 YEARS
+
+I",31-40,1,"headache, giddiness, fear, palpition",92,0
+Male,"SODIUM VALPROATE, 500mg, 1-0-1, 1 Months, -
+
+TCLOBAZAM, 10mg, 1/2-0-1, 1 Months, -",Afzalpur,20,"DELAY DEVELOPMENT, GTCS",16 YEARS.,0-20,16,"delay development, gtcs",114,1
+Female,"OLANZAPINE, 10 MG, 1-0-1, 1 Months, -
+
+YES.",Afzalpur,24,"LACK OF SLEEP, TALKING SELF, SUSPICIOUSNESS",2 YEARS,21-30,2,"lack of sleep, talking self, suspiciousness",36,0
+Male,"RSP, 2MG, 2-0-2, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+YES.",Afzalpur,49,"LACK OF SLEEP,ABNORMAL BEHAVIOUR , VIOLENT BEHAVIOUR","FEW MONTH
+
+I",41-50,0,"lack of sleep,abnormal behaviour , violent behaviour",78,1
+Female,"RISPERIDONE, 2mg, 1-0-2, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+YES.",Afzalpur,53,K/C/O F20,"15 YEARS.
+
+I",51-60,15,k/c/o f20,67,0
+Male,"RISPERIDONE, 2mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+YES.",Afzalpur,7,IDD WITH BEHAVIOUR PROBLEM,MANY YEARS.,0-20,10,idd with behaviour problem,65,1
+Male,"OLANZAPINE, 10mg, 1-0-1, 2 Months, -
+
+RISPERIDONE, 4mg, 1/2-0-1, 2 Months, -
+
+CLONAZEPAM, 0.5MG, 1-0-1, 2 Months, -",Afzalpur,30,"MUTTERING TO SELF , AGGRESIVE VOILENT BEHAVIORAL","10YRS
+
+I",21-30,10,"muttering to self , aggresive voilent behavioral",39,1
+Male,"RISPERIDONE, 2mg, 0-0-2, 2 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 0-0-1, 2 Months, -
+
+CLORPRAMAZINE, 100MG, 0-0-1/2, 2 Months, -
+
+NO",Afzalpur,53,HEARING VOICES NOT HEARED BY OTHERS,"2 YRS
+
+ical",51-60,2,hearing voices not heared by others,58,1
+Male,"SODIUM VALPROATE, 300mg, 1-0-1, 2 Months, -
+
+RISPERIDONE, 4mg, 1-0-1, 2 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 2 Months, -
+
+NO",Afzalpur,49,"EXCESSIVE TALKING , OVER RELIGIOSITY , TALKING TO SELF","20 YRS
+
+ical",41-50,20,"excessive talking , over religiosity , talking to self",105,1
+Female,"RISPERIDONE, 4mg, 1-0-1, 2 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 2 Months, -
+
+OLANZAPINE, 5mg, 0-0-1, 2 Months, -",Afzalpur,34,TALKING TO SELF SMILING TO SELF SUSPICIOUNESS,"5 YRS.
+
+I",31-40,5,talking to self smiling to self suspiciouness,75,0
+Male,"T PHENOBARBITONE, 60mg, 0-0-1, 2 Months, -
+
+CLONAZEPAM, 0.5 MG, 1/2-0-1, 2 Months, -
+
+T PHENYTOIN SODIUM, 100mg, 1-0-1, 2 Months, -",Afzalpur,72,episodes of involuntary movements of ul and Il,"3 yrs
+
+GIDDINESS, DROWSINESS,
+
+D
+
+EC
+
+, > 15 DAYS
+
+ONE EPISODE OF SCIZURE - 1SDAYS BACK",71-80,3,episodes of involuntary movements of ul and il,120,1
+Female,"CARBAMAZEPINE, 200MG, 1-0-1, 2 Months, -
+
+T PHENOBARBITONE, 60mg, 1-0-1, 2 Months, -
+
+T CLOBAZAM, 10MG, 0-0-1, 2 Months, -
+
+NO",Afzalpur,24,K/C/O,"-- SEIZURE DISORDER - 1YRS.
+
+I",21-30,0,k/c/o,10,0
+Female,"RISPERIDONE, 2mg, 0-0-2, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-1-0, 1 Months, -
+
+SODIUM VALPROATE, 500mg, 0-0-1, 1 Months, -",Afzalpur,44,"EPISODES OF EXCESSIVE TALKING , IRRITABILTY , INCREASED ENERGY","12 YRS
+
+I",41-50,12,"episodes of excessive talking , irritabilty , increased energy",56,0
+Female,"RISPERIDONE, 2mg, 0-0-2, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-1-0, 1 Months, -
+
+SODIUM VALPROATE, 500mg, 0-0-1, 1 Months, -
+
+NO",Afzalpur,44,"EPISODES OF EXCESSIVE TALKING , IRRITABILTY , INCREASED ENERGY",12 YRS,41-50,12,"episodes of excessive talking , irritabilty , increased energy",57,0
+Male,"RISPERIDONE, 4mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+AMISULPHRIDE, 50MG, 1-0-1, 1 Months, -
+
+NO",Afzalpur,49,"DECREASED SOCIAL INTERACTION , SUSPICIOUSNESS",8 YRS,41-50,8,"decreased social interaction , suspiciousness",71,1
+Male,"RISPERIDONE, 2mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -
+
+CHLORPROMAZINE, 100mg, 0-0-1, 1 Months, -
+
+NO",Afzalpur,37,TALKING TO SELF SMILING TO SELF,4 YRS,31-40,4,talking to self smiling to self,61,1
+Female,"CLOZAPINE, 100MG, 1/2-0-1, 2 Months, -
+
+DIAZEPAM, Smg, 1-0-1, 2 Months, -",Afzalpur,65,"AGRESSIVE BEHAVIOR, IRRILAVANT TALK, SMILING TO SELF",10 YRS,61-70,10,"agressive behavior, irrilavant talk, smiling to self",17,0
+Female,"OLANZAPINE, 10mg, 1/2-0-1, 2 Months, -
+
+SODIUM VALPROATE, 500mg, 1-0-1, 2 Months, -",Afzalpur,44,"ABNORMAL BEHAVIOR, DISTRUBED SLEEP, IRRELEVANT TALK",1 YR,41-50,1,"abnormal behavior, distrubed sleep, irrelevant talk",41,0
+Male,"RISPERIDONE, 4mg, 1/2-0-1, 2 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1/2-0-1, 2 Months, -",Afzalpur,75,"ABNORMAL BEHAVIOR, DISTRUBED SLEEP, SUSPICIOUNESS",20YRS-,71-80,20,"abnormal behavior, distrubed sleep, suspiciouness",77,1
+Female,"CLOZAPINE, 25mg, 1-0-1, 1 Months, -
+
+LORAZEPAM, 1mg, 1/2-0-1, 1 Months, -
+
+NO",Afzalpur,48,"DISTURBED SLEEP, IRRITABILITY, TALKING TO SELF",10YRS,41-50,10,"disturbed sleep, irritability, talking to self",19,0
+Male,"OLANZAPINE, 10mg, 1/2-0-1, 1 Months, -
+
+SODIUM VALPROATE, 500mg, 1--0-1, 1 Months, -",Afzalpur,58,"ABNORMAL BEHAVIOR, DISTRUBED SLEEP",10YRS.,51-60,10,"abnormal behavior, distrubed sleep",40,1
+Female,"RISPERIDONE, 2mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+OLANZAPINE, 10mg, 0-0-1, 1 Months, -
+
+NO",Afzalpur,32,"DISTURBED SLEEP, SUSPICIOUSNESS, ABNORMAL BEHAVIOR",6 YRS,31-40,6,"disturbed sleep, suspiciousness, abnormal behavior",64,0
+Male,"SODIUM VALPROATE, 500mg, 1-0-1, 1 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1, 1 Months, -
+
+NO",Afzalpur,33,"SUDDEN LOSS OF CONCIOUSNESS FOLLOWED BY JURKING MOVEMENTS OF ALL LIMBS, FROTHING OF MOUTH,",5 YRS.,31-40,5,"sudden loss of conciousness followed by jurking movements of all limbs, frothing of mouth,",112,1
+Female,"QUITAPINE, 100MG, 1/2-0-1/2, 1 Months, -
+
+DONEPAZIL, SMG, 1-0-1, 1 Months, -
+
+THIAMINE, 100MG, 1-0-0, 1 Months, -
+
+NO",Afzalpur,62,"FORGETFULNESS, WANDERING BEHAVIOR, DISTURBED SLEEP, ANGER, IRRITABILITY",GMONTHS,61-70,0,"forgetfulness, wandering behavior, disturbed sleep, anger, irritability",47,0
+Male,"SODIUM VALPROATE, 500mg, 1-0-1, 1 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1, 1 Months, -
+
+NO",Afzalpur,33,"SUDDEN LOSS OF CONCIOUSNESS FOLLOWED BY JURKING MOVEMENTS OF ALL LIMBS, FROTHING OF MOUTH,",5 YRS.,31-40,5,"sudden loss of conciousness followed by jurking movements of all limbs, frothing of mouth,",112,1
+Male,"RISPERIDONE, 4mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-1-0, 1 Months, -
+
+OLANZAPINE, 10mg, 0-0-1, 1 Months, -
+
+LORAZEPAM, 2MG, 1-0-1, 1 Months, -",Afzalpur,29,"SUSPICIOUNESS, DISTURBED SLEEP, TALKING TO SELF","2 YRS
+
+ical",21-30,2,"suspiciouness, disturbed sleep, talking to self",74,1
+Male,"RISPERIDONE, 4mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-1-0, 1 Months, -
+
+OLANZAPINE, 10mg, 0-0-1, 1 Months, -
+
+LORAZEPAM, 2MG, 1-0-1, 1 Months, -",Afzalpur,29,"SUSPICIOUNESS, DISTURBED SLEEP, TALKING TO SELF",2 YRS,21-30,2,"suspiciouness, disturbed sleep, talking to self",74,1
+Male,"RISPERIDONE, 4mg, 1/2-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1/2-0-1, 1 Months, -
+
+OLANZAPINE, 10mg, 0-0-1, 1 Months, -
+
+NO",Afzalpur,38,"SUSPICIOUNESS, DISTURBED SLEEP, IRRITABILITY",5 YRS.,31-40,5,"suspiciouness, disturbed sleep, irritability",76,1
+Female,"SERTRALINE, 100mg, 1-0-0, 1 Months, -
+
+LORAZEPAM, 2mg, 1/2-0-1, 1 Months, -
+
+NO",Afzalpur,32,"FEAR, PALPITATION, DISTURBED SLEEP",1 YR,31-40,1,"fear, palpitation, disturbed sleep",93,0
+Male,"SODIUM VALPROATE, 500mg, 1/2-0-1, 1 Months, -
+
+TCLOBAZAM, 10mg, 1/2-0-1, 1 Months, -
+
+NO",Afzalpur,44,"SUDDEN LOSS OF CONCIOUSNESS, JURKING MOVEMENT OF LIMBS, FROCKING OF MOUTH",1 YR,41-50,1,"sudden loss of conciousness, jurking movement of limbs, frocking of mouth",119,1
+Male,"SODIUM VALPROATE, 300mg, 1-0-1, 2 Months, -
+
+T PHENYTOIN SODIUM, 100mg, 1-0-1, 2 Months, -
+
+T CLOBAZAM, 1-0-1, 1-0-1, 2 Months, -",Afzalpur,16,MR WITH GTCS,13 YRS.,0-20,13,mr with gtcs,106,1
+Male,"OLANZAPINE, 10mg, 0-0-1, 2 Months, -",Afzalpur,32,"ABNORMAL BEHAVIOR, DISTURBED SLEEP, SUSPICIOUNESS",15 YRS.,31-40,15,"abnormal behavior, disturbed sleep, suspiciouness",38,1
+Female,"CLONAZEPAM, 0.5MG, 0-0-1, 1 Months, -
+
+OLANZAPINE, 5mg, 1/2-0-1, 1 Months, -",Afzalpur,28,"TALKING TOSELF,DISTURBED SLEEP, IRRITABILITY, SUSPICIOUSNESS","2YRS
+
+I",21-30,2,"talking toself,disturbed sleep, irritability, suspiciousness",15,0
+Male,"AMITRIPTYLINE, 25mg, 0-0-3, 2 Months, -
+
+CLONAZEPAM, 0.5MG, 1-0-1, 2 Months, -
+
+NO",Afzalpur,45,"LACK OF INTEREST, SADNESS, DISTURBED SLEEP,",10 YRS,41-50,10,"lack of interest, sadness, disturbed sleep,",7,1
+Male,"RISPERIDONE, 4mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+OLANZAPINE, 10mg, 0-0-1/2, 1 Months, -",Afzalpur,27,"ABNORMAL BEHAVIOR, DISTURBED SLEEP, SUSPECIOUSNESS",10 YRS,21-30,10,"abnormal behavior, disturbed sleep, suspeciousness",72,1
+Female,"SERTRALINE, 50mg, 1-0-0, 1 Months, -
+
+CLONAZEPAM, 0.5MG, 1-0-1, 1 Months, -
+
+NO",Afzalpur,38,"LACK OF INTEREST, DISTURBED SLEEP, SADNESS","15 YRS
+
+I",31-40,15,"lack of interest, disturbed sleep, sadness",95,0
+Female,"SERTRALINE, 50mg, 1-0-0, 1 Months, -
+
+CLONAZEPAM, 0.5MG, 1-0-1, 1 Months, -",Afzalpur,38,"LACK OF INTEREST, DISTURBED SLEEP, SADNESS",15 YRS,31-40,15,"lack of interest, disturbed sleep, sadness",94,0
+Female,"T PHENYTOIN SODIUM, 100mg, 1-1-1, 1 Months, -
+
+T PHENOBARBITONE, 60mg, 0-0-1, 1 Months, -
+
+T CLOBAZAM, 0-0-1/2, 0-0-1/2, 1 Months, -",Afzalpur,32,GTCS,2 YRS,31-40,2,gtcs,121,0
+Male,"RISPERIDONE, 4mg, 1
+
+-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+SODIUM VALPROATE, 300mg, 1-0-1, 1 Months, -
+
+LORAZEPAM, 2mg, 1/2-0-1/2, 1 Months, -
+
+NO",Afzalpur,39,"DISTURBED SLEEP, SUSPECIOUSNESS,",4 YRS,31-40,4,"disturbed sleep, suspeciousness,",69,1
+Female,"CARBAMAZEPINE, 200mg, 2-0-2, 2 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1/2, 2 Months, -
+
+T LEVETERACETAM, 500mg, 1-0-1, 2 Months, -",Afzalpur,57,K/C/O GTCS,"20YRS
+
+ical",51-60,20,k/c/o gtcs,14,0
+Female,"RISPERIDONE, 4MG, 1/2-0-1, 2 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1/2-0-01, 2 Months, -
+
+NO",Afzalpur,60,K/C/O F20,10YRS,51-60,10,k/c/o f20,68,0
+Female,"RISPERIDONE, 4mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+SODIUM VALPROATE, 500mg, 1-0-1, 1 Months, -
+
+LORAZEPAM, 2mg, 1/2-0-1/2, 1 Months, -
+
+NO",Afzalpur,14,MR WITH GTCS,"11YRS.
+
+ical",0-20,11,mr with gtcs,73,0
+Male,"LITHIUM, 300mg, 1-0-2, 2 Months, -
+
+RISPERIDONE, 2mg, 1-0-1, 2 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 2 Months, -
+
+NO",Afzalpur,56,K/C/O GTCS F20,"10YRS.
+
+I",51-60,10,k/c/o gtcs f20,32,1
+Male,"DONEPAZIL, SMG, 1-0-1, 1 Months, -
+
+THIAMINE, 100MG, 1-0-0, 1 Months, -
+
+QUITAPINE, 50MG, 1-0-1, 1 Months, -
+
+NO",Afzalpur,69,"FORGETFULLNESS ,DISTRUB SLEEEP ,ABNORMAL BEHAVIRAL",2YRS.,61-70,2,"forgetfullness ,distrub sleeep ,abnormal behaviral",23,1
+Female,"SODIUM VALPROATE, 300mg, 1-0-1, 2 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1, 2 Months, -",Afzalpur,73,K/C/O GTCS,"6YRS.
+
+ical",71-80,6,k/c/o gtcs,107,0
+Male,"FLUOXETINE, 20mg, 1-0-0, 2 Months, -
+
+CLONAZIPAM, 0.5MG, 1-0-1, 2 Months, -",Afzalpur,38,"FEAR ,PALPITATION ,DISTRUB SLEEP",5YRS,31-40,5,"fear ,palpitation ,distrub sleep",30,1
+Female,"OLANZAPINE, 10mg, 0-0-1, 2 Months, -",Afzalpur,61,k/clo £20,Syrs,61-70,0,k/clo £20,38,0
+Male,"SERTRALINE, 1000mg, 0-0-1, 2 Months, -
+
+ZOLPIDEM, 10MG, 0-0-1/2, 2 Months, -",Afzalpur,54,"DUE TO DREAMING , DISTRUB SLEEP, ACCESIVFEAR THOUGHT, FEAR , PALPITATIONE","5 TO 6M
+
+ical",51-60,5,"due to dreaming , distrub sleep, accesivfear thought, fear , palpitatione",89,1
+Female,"RISPERIDONE, 2mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -
+
+DIAZEPAM, Smeg, 0-0-1, 1 Months, -
+
+NO",Afzalpur,44,"LESS SLEEP , TALKING TO SLEF , WODERING BEHAVIOURAL, ANGER F 20",10YRS.,41-50,10,"less sleep , talking to slef , wodering behavioural, anger f 20",62,0
+Female,"SERTRALINE, 100mg, 1-0-0, 1 Months, -
+
+CLOZAPINE, 0.5MG, 0-0-1, 1 Months, -",Afzalpur,56,"HEADACHE , GIDDINISS, IRRETABILITY , DISTRUB SLEEP",SYRS,51-60,0,"headache , giddiniss, irretability , distrub sleep",91,0
+Female,"RISPERIDONE FORTE, 2+4MG, 1-0-1, 2 Months, -
+
+LITHIUM, 450mg, 1/2-0-1, 2 Months, -
+
+CLONAZEPAM, 0.5MG, 0-0-1, 2 Months, -",Afzalpur,47,"ANGER, IRRITABILITY, VOILENT BEHVIOURAL, LACK OF SLEEP","5-6YRS-
+
+ical",41-50,5,"anger, irritability, voilent behvioural, lack of sleep",53,0
+Female,treatment not updated,Afzalpur,26,"ATTENTION POOR,",4 MONTH,21-30,4,"attention poor,",124,0
+Male,"TRIHEXYPHENIDYL, 2mg, 1-0-0, 2 Months, -",Afzalpur,32,K/C/O F20,7YRS,31-40,7,k/c/o f20,123,1
+Female,"AMITRIPTYLINE, 25mg, 0-0-1, 1 Months, -
+
+PROPANOLAL, 40MG, 1-0-1, 1 Months, -",Afzalpur,30,"GIDDINESS, HEADACE",1YRS,21-30,1,"giddiness, headace",5,0
+Female,"AMITRIPTYLINE, 25mg, 0-0-1, 2 Months, -
+
+CLONAZEPAM, 0.5MG, 1-0-1, 2 Months, -",Afzalpur,71,MULTIPLE SOMATIC PAIN SYMPTOM,1-2YRS,71-80,1,multiple somatic pain symptom,6,0
+Male,"LORAZEPAM, 2mg, 1/2-0-1, 2 Months, -
+
+THIAMINE, 100MG, 1-0-0-, 2 Months, -",Afzalpur,64,"GANJA ADDICTION,",10YRS,61-70,10,"ganja addiction,",33,1
+Female,"RISPERIDONE, 2mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+CLONAZEPAM, 0.5MG, 0-0-1, 1 Months, -
+
+NO",Afzalpur,64,F20,5-6YRS,61-70,5,f20,63,0
+Male,"CARBAMAZEPINE, 200mg, 2--0-2, 2 Months, -
+
+EPTOIN, 100MG, 1-0-1, 2 Months, -",Afzalpur,16,GTCS,8YRS,0-20,8,gtcs,12,1
+Female,"LEVIPIL, 500MG, 1-0-1, 2 Months, -
+
+CHLORPROMAZINE, 200mg, 2-0-2, 2 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1/2, 2 Months, -",Afzalpur,47,K/C/O GTCS,20YRS 6M.,41-50,20,k/c/o gtcs,31,0
+Male,"AMISULPHIRIDE, 100MG, 0-0-1, 1 Months, -
+
+CLONAZIPAM, 0.5MG, 0-0-1, 1 Months, -
+
+NO",Afzalpur,28,"PSYCHOSIS, SCHIZOPHERNIA","1Y,",21-30,1,"psychosis, schizophernia",1,1
+Male,"AMISULPHIRIDE, 100MG, 0-0-1, 1 Months, -
+
+CLONAZIPAM, 0.5MG, 0-0-1, 1 Months, -",Afzalpur,28,"PSYCHOSIS, SCHIZOPHERNIA","1Y,",21-30,1,"psychosis, schizophernia",0,1
+Male,"OLANZAPINE, 5mg, 0-0-1, 1 Months, -
+
+SODIUM VALPROATE, 500mg, 0-0-1/2, 1 Months, -",Afzalpur,38,K/C/O BPAD,"10YR
+
+I",31-40,10,k/c/o bpad,43,1
+Female,"DONEPAZIL, 500MG, 1-0-1, 1 Months, -
+
+THIAMINE, 100MG, 1-0-0, 1 Months, -
+
+RISPERIDONE, 4mg, 1/2-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1/2-0-01, 1 Months, -
+
+NO",Afzalpur,63,"FORGETFULNESS, LACK OF SLEEP, WONDERING BEHAVIORAL, VOILENT BEHAVORAL","5-6YR
+
+I",61-70,5,"forgetfulness, lack of sleep, wondering behavioral, voilent behavoral",22,0
+Female,"SODIUM VALPROATE, 500mg, 1-0-1, 1 Months, -
+
+EPTION, 100MG, 1-1-1, 1 Months, -
+
+GARDINAL, 60MG, 0-0-1, 1 Months, -",Afzalpur,27,SHAKING HANDS,"11 Y
+
+I",21-30,11,shaking hands,111,0
+Male,"SODIUM VALPROATE, 200MG, 1-0-1, 1 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1, 1 Months, -",Afzalpur,15,K/C/O GTCS,9YR,0-20,9,k/c/o gtcs,100,1
+Male,"SODIUM VALPROATE, 300MG, 10-01, 1 Months, -
+
+CARBAMAZEPINE, 200MG, 1-0-2, 1 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1, 1 Months, -",Afzalpur,17,K/C/O MR WITH GTCS,"17YR.
+
+I",0-20,17,k/c/o mr with gtcs,102,1
+Male,"CARBAMAZEPINE, 200mg, 1-01, 1 Months, -
+
+no",Afzalpur,28,severe mr with behavioral problem,25yr,21-30,25,severe mr with behavioral problem,11,1
+Male,"SODIUM VALPROATE, 200MG, 1-0-1, 1 Months, -
+
+EPTOIN, 100MG, 1-0-1, 1 Months, -",Afzalpur,10,K/C/O MR WITH GTCS,12YR.,0-20,12,k/c/o mr with gtcs,97,1
+Male,"EPTOIN, 100MG, 1-1-1, 1 Months, -
+
+GARDINAL, 60MG, 0-0-1, 1 Months, -",Afzalpur,40,CVA WITH HTN/GTCS,2-YR,31-40,2,cva with htn/gtcs,28,1
+Female,"RSP-FORT, 4MG, 0-0-1, 1 Months, -
+
+CLOZAPINE, 0.5, 0-0-1, 1 Months, -",Afzalpur,42,"SELF CARE POOR , WANDERING, DELUSION,",MANY YEARS,41-50,10,"self care poor , wandering, delusion,",82,0
+Male,"RISPERIDONE, 2mg, 0-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -
+
+DIAZEPAM, 5Smg, 1-0-1, 1 Months, -",Afzalpur,57,K/C/O F20,"20YR
+
+ical",51-60,20,k/c/o f20,54,1
+Male,"SODIUM VALPROATE, 200MG, 1-0-1, 1 Months, -
+
+EPTOIN, 100MG, 1-0-1, 1 Months, -
+
+GARDINAL, 30MG, 0-0-1, 1 Months, -",Afzalpur,10,SEVERE WITH MR WITH GTCS,"2-3YR
+
+ical",0-20,2,severe with mr with gtcs,98,1
+Male,"SODIUM VALPROATE, 200MG, 1-0-1, 1 Months, -
+
+TCLOBAZAM, 10mg, 1/2-0-1, 1 Months, -",Afzalpur,18,MRWITH GTCS,"16YR
+
+cli
+
+I",0-20,16,mrwith gtcs,101,1
+Male,"RSP-FORT, 2MG, 1-0-1, 1 Months, -
+
+CPZ, 50 MG, 1/2-0-1, 1 Months, -
+
+SODIUM VALPROATE, 200MG, 1-0-1, 1 Months, -
+
+NO",Afzalpur,30,"SELF TALKING, SELF CARE POOR, HALLUCINATION",12 Y,21-30,12,"self talking, self care poor, hallucination",80,1
+Male,"FLUOXETINE, 20mg, 1-0-0, 1 Months, -
+
+RSP, 2 MG, 0-0-1, 1 Months, -
+
+THP, 2 MG, 1-0-0, 1 Months, -
+
+SODIUM VALPROATE, 500mg, 1-0-1, 1 Months, -
+
+NO",Afzalpur,30,"SLEEP PROBLEM,",4Y,21-30,4,"sleep problem,",29,1
+Male,"RISPERIDONE, 2mg, 0-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -
+
+SODIUM VALPROATE, 300mg, 0-0-1/2, 1 Months, -
+
+no",Afzalpur,50,k/c/o bpad,9yr,41-50,9,k/c/o bpad,55,1
+Male,"REP-FORT, 4MG, 1-0-1, 1 Months, -
+
+QUITAPIN, 100MG, 1/2-0-1/2, 1 Months, -
+
+SODIUM VALPROATE, 300mg, 1-0-1, 1 Months, -
+
+NO",Afzalpur,44,"‘SELF TALKING,WANDERING, AGGRESSIVE BEHAVIOUR",16 YEARS,41-50,16,"‘self talking,wandering, aggressive behaviour",50,1
+Female,"SODIUM VALPROATE, 300mg, 1-0-1, 1 Months, -
+
+T CLOBAZAM, 5mg, 1-0-1, 1 Months, -
+
+T LEVETERACETAM, 500mg, 0-0-1, 1 Months, -",Afzalpur,17,k/clo seizure d/o,10yr,0-20,10,k/clo seizure d/o,104,0
+Female,"SERTRALINE, 50mg, 1-0-0, 1 Months, -
+
+LORAZEPAM, 2mg, 0-0-1/2, 1 Months, -",Afzalpur,45,"choric headache, palpitation, chest pain, sadness, lack of sleep","3-4yr
+
+ical",41-50,3,"choric headache, palpitation, chest pain, sadness, lack of sleep",96,0
+Male,"OLANZAPINE, 5mg, 1-0-1, 1 Months, -",Afzalpur,22,"talking & laughing to self, crying, wondering behavior, distrub sleep",lyr,21-30,0,"talking & laughing to self, crying, wondering behavior, distrub sleep",44,1
+Male,"RISPERIDONE, 2mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -",Afzalpur,46,"talking to self, laughing to self, irritability",40yr,41-50,40,"talking to self, laughing to self, irritability",59,1
+Male,"RISPERIDONE, 2mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -",Afzalpur,41,psychosis,3-6yr,41-50,3,psychosis,59,1
+Female,"OLANZAPINE, 10mg, 0-0-1, 1 Months, -
+
+LORAZEPAM, 2mg, 0-0-1/2, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -",Afzalpur,64,k/clo secizure d/o,"2yr
+
+I",61-70,2,k/clo secizure d/o,37,0
+Male,"SODIUM VALPROATE, 300mg, 1-0-0-, 1 Months, -
+
+no",Afzalpur,11,"k/clo seizure,","2-4yr
+
+ical",0-20,2,"k/clo seizure,",103,1
+Male,"ARIPEPRZAL, SMG, 1-0-1, 1 Months, -",Afzalpur,38,"PAIN OVER SCAL, AFTER BLUNT INJURY","2YR
+
+I",31-40,2,"pain over scal, after blunt injury",8,1
+Female,"RESP, 2MG, 1-0-2, 1 Months, -
+
+THP, 2MG, 1-0-1, 1 Months, -",Afzalpur,62,"BEHAVIOUR PROBLEM, SHOUTING OF SELF, HEARING OF VOICS, TALKING SELF,",MANY YEARS.,61-70,10,"behaviour problem, shouting of self, hearing of voics, talking self,",52,0
+Male,"T PHENYTOIN SODIUM, 100mg, 1/2-0-1/2, 1 Months, -
+
+T PHENOBARBITONE, 60mg, 1/2-0-1/2, 1 Months, -
+
+CARBAMAZEPINE, 200mg, 1/2-0-1/2, 1 Months, -
+
+LEVITACETAM, 500MG, 0-1/2-0, 1 Months, -",Afzalpur,26,K/C/O SEZURE D/O,"3YR
+
+ical",21-30,3,k/c/o sezure d/o,122,1
+Female,"SODIUM VALPROATE, 200MG, 1-0-1, 1 Months, -
+
+NO",Afzalpur,10,MR WITH BEHAVIORAL PROBLEM,10YR.,0-20,10,mr with behavioral problem,99,0
+Male,"SODIUM VALPROATE, 500mg, 1/2-0-1, 1 Months, -
+
+CIOBAZAM, 5MG, 1-0-1, 1 Months, -",Afzalpur,15,"DELAY DEVELOPMENT, SELF CARE POOR, SEIZERE",MANY YEARS,0-20,10,"delay development, self care poor, seizere",115,1
+Male,"SODIUM VALPROATE, 500mg, 1/2-0-1, 1 Months, -
+
+CIOBAZAM, 5MG, 1-0-1, 1 Months, -
+
+NO",Afzalpur,15,"DELAY DEVELOPMENT, SELF CARE POOR, SEIZERE","MANY YEARS
+
+ical",0-20,10,"delay development, self care poor, seizere",116,1
+Female,treatment not updated,Afzalpur,45,"INVOLMTARY MOVEMENT, POOR SLEEP, SELF CARE POOR,","14Y
+
+ical",41-50,14,"involmtary movement, poor sleep, self care poor,",124,0
+Female,"AMITRIPTYLINE, 25 MG, 0-0-1, 1 Months, -
+
+NO",Afzalpur,48,"HEADACHE,LACK OF SLEEP,",1 YEAR,41-50,1,"headache,lack of sleep,",2,0
+Female,"RSP-FORT, 2MG, 1-0-1, 1 Months, -
+
+CARBAMAZEPINE, 200MG, 1-0-1, 1 Months, -
+
+NO",Afzalpur,30,"SMILING SELF,POOR SELF CARE,HALLUCINATION",3 YEARS.,21-30,3,"smiling self,poor self care,hallucination",79,0
+Female,"EPTOIN, 100MG, 1-0-2, 1 Months, -
+
+GARDINAL, 60MG, 0-0-1, 1 Months, -",Afzalpur,43,K/C/O GTCS,3-5YR,41-50,3,k/c/o gtcs,27,0
+Female,"MEMANTIN, 10MG, 1-0-1, 1 Months, -
+
+THIAMIN, 100MG, 1-0-0, 1 Months, -
+
+RISPERIDONE, 2mg, 0-0-1, 1 Months, -",Afzalpur,81,DEMENTIA WITH PSYCHOSIS,1-2YR,81-90,1,dementia with psychosis,34,0
+Female,"CLOZAPINE, 100MG, 1/2-0-1, 1 Months, -",Afzalpur,32,"POOR SELF CARE, WANDERING, DELUSION",7 YEARS.,31-40,7,"poor self care, wandering, delusion",16,0
+Female,"OLANZAPINE, 5MG, 1/2-0-1, 1 Months, -",Afzalpur,28,"POOR SELF CARE, DELAY DEVELOPMENT",20 Y,21-30,20,"poor self care, delay development",42,0
+Female,"OLANZAPINE, 10 MG, 1-0-1, 1 Months, -
+
+LORAZEPAM, 2MG, 0-0-1/2, 1 Months, -",Afzalpur,50,"LACK OF SLEEP, ABNORMAL BEHAVIOUR, ANGER, IRRITABLITY","3 TO 4 YEARA
+
+ical",41-50,3,"lack of sleep, abnormal behaviour, anger, irritablity",35,0
+Female,"RISPERIDONE, 4mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -",Afzalpur,59,"more talkativeness, reduced sleep, aggressive behavior","40yr
+
+ical",51-60,40,"more talkativeness, reduced sleep, aggressive behavior",70,0
+Male,"EPTION, 100MG, 1/2-0-1, 1 Months, -
+
+SODIUM VALPROATE, 200MG, 1-1-1, 1 Months, -
+
+CARBAMAZEPINE, 200mg, 1-0-1, 1 Months, -
+
+GARDINAL, 60 MG, 0-0-1, 1 Months, -",Afzalpur,30,SHAKING HAND GTCS,"12 YEARS.
+
+cli
+
+I",21-30,12,shaking hand gtcs,25,1
+Male,"AMITRIPTYLINE, 25mg, 0-0-1, 1 Months, -
+
+NICOTINE GUMS, 2mg, 1-1-1, 1 Months, -
+
+NA",Afzalpur,32,NDC,"1-2YR
+
+ical",31-40,1,ndc,4,1
+Female,"CLOZAPINE, 50 MG, 1/2-0-1, 1 Months, -
+
+CLONAZPAM, 0.5, 1/2-0-1, 1 Months, -",Afzalpur,55,"ABNORMAL BEHAVIOUR,LACK OF SLEEP, SUSPICIOUSNESS","25 YEARS.
+
+I",51-60,25,"abnormal behaviour,lack of sleep, suspiciousness",20,0
+Male,"RSPN, 2MG, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2MG, 1-0-0, 1 Months, -
+
+NO",Afzalpur,22,"DELAY MILESTONE, POOR SELF CARE,FULLY DEPENDENT ON OTHERS",15 Y,21-30,15,"delay milestone, poor self care,fully dependent on others",87,1
+Male,"SODIUM VALPROATE, 500MG, 1/2-0-1, 1 Months, -
+
+EPTION, 100MG, 1-1-1, 1 Months, -
+
+T CLOBAZAM, 10MG, 1-0-1, 1 Months, -
+
+OLANZAPINE, 10 MG, 1/2-0-1/2, 1 Months, -",Afzalpur,18,"SHAKING HANDS,EPISODE DAILY",10 Y,0-20,10,"shaking hands,episode daily",110,1
+Female,"RSPN , 2MG, 1-0-1, 1 Months, -
+
+CLONAZAPAM, 0.5MG, 0-0-1, 1 Months, -",Afzalpur,53,"TALKING SMILING TO SELF, POOR SELF CARE",12 YEARS,51-60,12,"talking smiling to self, poor self care",84,0
+Male,"RSPN, 2MG, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -
+
+NO",Afzalpur,32,"WONDRING BEHAVIOR, IRRELEVANT TALK, DISTRABLE SLEEP",6 TO 8 YEARS.,31-40,6,"wondring behavior, irrelevant talk, distrable sleep",88,1
+Female,"RSP-FORT, 2MG, 1-0-1, 1 Months, -
+
+SODIUM VALPROATE, 200MG, 1-0-1, 1 Months, -",Afzalpur,24,BEHAVIOUR PROBLEM,2 YEARS,21-30,2,behaviour problem,81,0
+Female,"AMITRIPTYLINE, 25mg, 0-0-1, 1 Months, -
+
+LORAZEPAM, 2mg, 0-0-1, 1 Months, -",Afzalpur,74,"SOMATIC PAIN, LACK OF SLEEP, GIDDINESS, FEAR, PALPITAN",10 YEARS,71-80,10,"somatic pain, lack of sleep, giddiness, fear, palpitan",3,0
+Male,"SODIUM VALPROATE, 500mg, 1/2-0-1, 1 Months, -
+
+T CLOBAZAM, 5mg, 1-0-1, 1 Months, -
+
+NO",Afzalpur,32,"DELAY DEVELOPMENT, SELF CARE POOR GTCS","MANY YEARS
+
+ical",31-40,10,"delay development, self care poor gtcs",118,1
+Female,"CARBAMAZEPINE, 200MG, 1-0-1, 1 Months, -",Afzalpur,12,"DEALY DEVELOPMENT, SELF CARE POOR, EYE CONTTENT POOR",10 Y,0-20,10,"dealy development, self care poor, eye conttent poor",9,0
+Male,"RSPN, 2MG, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2MG, 1-0-0, 1 Months, -",Afzalpur,54,"SELF CARE POOR , BEHAVIOUR PROBLEM,DELY DEVELOPMENT","20 Y
+
+I",51-60,20,"self care poor , behaviour problem,dely development",86,1
+Male,"SODIUM VALPROATE, 500MG, 1/2-0-1, 1 Months, -",Afzalpur,14,SEIZERS,"MANY YEARS.
+
+I",0-20,10,seizers,108,1
+Male,"CARBAMAZEPINE, 200mg, 2-0-2, 1 Months, -
+
+SODIUM VALPROATE, 300mg, 1-0-1, 1 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1, 1 Months, -",Afzalpur,43,GTCS,"1 YEAR
+
+ical",41-50,1,gtcs,13,1
+Female,"SODIUM VALPROATE, 500mg, 1/2-0-1, 1 Months, -
+
+EPTOIN, 100MG, 1-1-1, 1 Months, -
+
+YES.",Afzalpur,26,K/C/O OF GTCS,5 TO 6 YEARS,21-30,5,k/c/o of gtcs,117,0
+Male,"CLOZAPINE, 50mg, 1/2-0-1, 1 Months, -",Afzalpur,38,"IRRILEVANT TALK, ANGER, DISTURBED SLEEP,",6-8 YEARS,31-40,6,"irrilevant talk, anger, disturbed sleep,",21,1
+Male,"RSPN, 2MG, 1-0-1, 1 Months, -
+
+THP, 2MG, 1-0-0, 1 Months, -
+
+CLONAZEPEN, 0.5 MG, 0-0-1, 1 Months, -
+
+YES.",Afzalpur,40,"DIST SLEEP, SELF TALK, POOR SELF CARE","MANY YEARS
+
+I",31-40,10,"dist sleep, self talk, poor self care",85,1
+Male,"EPTOIN, 100MG, 1-0-1, 1 Months, -
+
+GARDINAL, 60 MG, 0-0-1, 1 Months, -
+
+CARBAMAZEPINE, 200mg, 2-0-2, 1 Months, -",Afzalpur,21,SEIZURES,"MANY YEARS.
+
+ical",21-30,10,seizures,26,1
+Male,"EPTOIN, 100MG, 1-0-1, 1 Months, -
+
+GARDINAL, 60 MG, 0-0-1, 1 Months, -
+
+CARBAMAZEPINE, 200mg, 2-0-2, 1 Months, -",Afzalpur,21,SEIZURES,"MANY YEARS.
+
+I",21-30,10,seizures,26,1
+Female,"SERTRALINE, 100mg, 1-0-0, 1 Months, -
+
+CLONZPAM, 0.5, 1/2-0-1, 1 Months, -",Afzalpur,24,"FEAR,PALPITANS, LACK OF SLEEP","2 YEARS.
+
+ical",21-30,2,"fear,palpitans, lack of sleep",90,0
+Male,"SODIUM VALPROATE, 500mg, 1-0-1, 1 Months, -
+
+TCLOBAZAM, 10mg, 1-0-1, 1 Months, -
+
+YES.",Afzalpur,62,K/C/O GTCS,2YEARS,61-70,2,k/c/o gtcs,113,1
+Male,"RESP, 2MG, 1-0-1, 1 Months, -
+
+THP, 2MG, 1-0-0, 1 Months, -",Afzalpur,39,"LACK OF SLEEP, ANGER, IRRITABILITY, FEAR,","VE THOUGHT, - 3-4 MONTH",31-40,0,"lack of sleep, anger, irritability, fear,",51,1
+Male,treatment not updated,Afzalpur,27,"SELF TALKING,POOR SELF CARE,",MANY YEARS,21-30,10,"self talking,poor self care,",124,1
+Female,"SODIUM VALPROATE, 500MG, 1/2-0-1, 1 Months, -
+
+EPTION, 100MG, 1-0-1, 1 Months, -
+
+GARDINAL, 60 MG, 0-0-1, 1 Months, -
+
+YES.",Afzalpur,17,GTCS,MANY YEARS,0-20,10,gtcs,109,0
+Male,"OLANZAPINE, 5mg, 1/2-0-1, 1 Months, -
+
+CLONAZPAM , 0.5MG, 0-0-1, 1 Months, -",Afzalpur,30,"K/C/O IDD, BEHAVIOUR PROBLEM",MANY YEARS,21-30,10,"k/c/o idd, behaviour problem",45,1
+Female,"PHENYTOIN, 100MG, 1-1-1, 1 Months, -
+
+SODIUM VALPROATE, 300mg, 1-0-1, 1 Months, -
+
+CARBAMAZEPINE, 200mg, 1-0-1, 1 Months, -",Afzalpur,36,INVOLUNTRY MOVEMENTS OF UPPERLIMBS AND LOWER LIMBS WITH LOSS OF AWARENESS OF SURROUNDINGS IN EPISOUR,"25
+
+YEARS.",31-40,25,involuntry movements of upperlimbs and lower limbs with loss of awareness of surroundings in episour,46,0
+Male,"RISPERIDONE, 2mg, 1-0-1, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-0, 1 Months, -
+
+CHLORPROMAZINE, 100mg, 0-0-1, 1 Months, -",Afzalpur,37,TALKING TO SELF SMILING TO SELF,4 YRS,31-40,4,talking to self smiling to self,60,1
+Female,"CLOZAPINE, 100MG, 1/2-0-1, 2 Months, -
+
+DIAZEPAM, Smg, 1-0-1, 2 Months, -
+
+NO",Afzalpur,65,"AGRESSIVE BEHAVIOR, IRRILAVANT TALK, SMILING TO SELF",10 YRS,61-70,10,"agressive behavior, irrilavant talk, smiling to self",18,0
+Male,"RISPERIDONE, 2mg, 1-0-2, 1 Months, -
+
+TRIHEXYPHENIDYL, 2mg, 1-0-1, 1 Months, -
+
+OLANZAPINE, 10mg, 0-0-1/2, 1 Months, -
+
+NO",Afzalpur,31,TALKING TO SELF SMILING TO SELF SUSPICIOUNESS,"3 YRS.
+
+ical",31-40,3,talking to self smiling to self suspiciouness,66,1
