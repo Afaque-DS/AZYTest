@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, render_template
 import pandas as pd
 import pickle  # For loading your pre-trained model
+import os
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -72,5 +73,9 @@ def predict_treatment():
         return jsonify({'error': str(e)}), 500
 
 # Run the app
+#if __name__ == '__main__':
+#    app.run(debug=True)
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))  # Use the PORT environment variable
+    app.run(host='0.0.0.0', port=port)
